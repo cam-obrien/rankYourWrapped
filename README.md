@@ -11,4 +11,4 @@ Built with React and Django with usage of Spotify's API using Axios. As of 01/03
 
 ## Functionality Walkthrough
 
-![](https://github.com/cam-obrien/rankYourWrapped/blob/main/assets/rankYourWrappedWalkthrough_AdobeExpress.gif)
+<img src="https://github.com/cam-obrien/rankYourWrapped/blob/main/assets/rankYourWrappedWalkthrough_AdobeExpress.gif" width="250" height="250"/>
