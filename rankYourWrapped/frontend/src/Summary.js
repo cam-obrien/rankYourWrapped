@@ -23,6 +23,7 @@ const Summary = ({items}) => {
             }
         }
         score = score / items.length
+        score = Math.trunc(score)
         setScore(score)
         setMin(min)
         setMinIdx(minIdx)
