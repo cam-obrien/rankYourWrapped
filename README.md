@@ -1,4 +1,4 @@
-# rankYourWrapped (Working Title)
+# rankYourWrapped
 
 ## Description
 
@@ -9,6 +9,6 @@ A web application that allows Spotify users to view their top artists or tracks 
 
 Built with React and Django with usage of Spotify's API using Axios. As of 01/03/2023 Django implementation is unrelated to react application functionality. Django implementation implemented for future use for creating a leaderboard of users' popularity rating.
 
-## Functionality Walkthrough
+## Functionality Walkthrough (Youtube)
 
-![](https://github.com/https://github.com/cam-obrien/rankYourWrapped/blob/main/assets/ezgif.com-gif-maker.gif)
+https://www.youtube.com/watch?v=H1azIsoWGfQ&ab_channel=CameronO%27Brien
