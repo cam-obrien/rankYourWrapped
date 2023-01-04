@@ -1,4 +1,4 @@
-# rankYourWrapped (Working Title)
+# rankYourWrapped
 
 ## Description
 
